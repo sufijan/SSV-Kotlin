@@ -16,5 +16,6 @@ class CalculatorTest {
         val calculator = Calculator()
         val result = calculator.parse("4 / 2")
         assertEquals(2, result)
+
     }
 }
